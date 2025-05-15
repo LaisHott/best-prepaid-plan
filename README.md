@@ -61,9 +61,15 @@ Identificar com **embasamento estatístico** qual plano é mais lucrativo, orien
 
 ## 📁 Estrutura do Projeto
 ├── 📘 README.md
+
 ├── 📓 plano-megaline.ipynb
+
 ├── 📊 data/
-│ ├── users.csv
-│ ├── calls.csv
-│ ├── messages.csv
-│ └── internet.csv
+
+   │ ├── users.csv
+
+   │ ├── calls.csv
+
+   │ ├── messages.csv
+   
+   │ └── internet.csv
